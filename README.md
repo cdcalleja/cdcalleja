@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cdcalleja
 - 👀 I’m interested in learn how to program
 - 🌱 I’m currently learning Desarrollo Web
+. I'm learning the basics
 - 💞️ I’m looking to collaborate on proyects
 - 📫 How to reach me 
 
